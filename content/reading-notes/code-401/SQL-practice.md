@@ -218,48 +218,48 @@ DROP TABLE IF EXISTS mytable;
 
 ### Lesson 1
 
-![lesson-1](/SQL-practice/lesson-1.png)
+![lesson-1](/blog/SQL-practice/lesson-1.png)
 
 ### Lesson 2
 
-![lesson-2](/SQL-practice/lesson-2.png)
+![lesson-2](/blog/SQL-practice/lesson-2.png)
 
 ### Lesson 3
 
-![lesson-3](/SQL-practice/lesson-3.png)
+![lesson-3](/blog/SQL-practice/lesson-3.png)
 
 ### Lesson 4
 
-![lesson-4](/SQL-practice/lesson-4.png)
+![lesson-4](/blog/SQL-practice/lesson-4.png)
 
 ### Lesson 5
 
-![lesson-5](/SQL-practice/lesson-5.png)
+![lesson-5](/blog/SQL-practice/lesson-5.png)
 
 ### Lesson 6
 
-![lesson-6](/SQL-practice/lesson-6.png)
+![lesson-6](/blog/SQL-practice/lesson-6.png)
 
 ### Lesson 13
 
-![lesson-13](/SQL-practice/lesson-13.png)
+![lesson-13](/blog/SQL-practice/lesson-13.png)
 
 ### Lesson 14
 
-![lesson-14](/SQL-practice/lesson-14.png)
+![lesson-14](/blog/SQL-practice/lesson-14.png)
 
 ### Lesson 15
 
-![lesson-15](/SQL-practice/lesson-15.png)
+![lesson-15](/blog/SQL-practice/lesson-15.png)
 
 ### Lesson 16
 
-![lesson-16](/SQL-practice/lesson-16.png)
+![lesson-16](/blog/SQL-practice/lesson-16.png)
 
 ### Lesson 17
 
-![lesson-17](/SQL-practice/lesson-17.png)
+![lesson-17](/blog/SQL-practice/lesson-17.png)
 
 ### Lesson 18
 
-![lesson-18](/SQL-practice/lesson-18.png)
+![lesson-18](/blog/SQL-practice/lesson-18.png)
