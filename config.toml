@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -78,7 +78,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "kwl"
-      logoHomeLink = "/"
+      logoHomeLink = "/blog"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -90,9 +90,13 @@ paginate = 5
         name = "posts"
         url = "/posts"
       [[languages.en.menu.main]]
-        identifier = "reading-notes"
-        name = "reading-notes"
-        url = "/reading-notes"
+        identifier = "code-301"
+        name = "code-301"
+        url = "/reading-notes/code-301"
+      [[languages.en.menu.main]]
+        identifier = "code-401"
+        name = "code-401"
+        url = "/reading-notes/code-401"
       [[languages.en.menu.main]]
         identifier = "list-of-tags"
         name = "tags"

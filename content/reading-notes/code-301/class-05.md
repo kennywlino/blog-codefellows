@@ -1,4 +1,18 @@
-# Thinking in React and Higher-Order Functions
++++
+title = "CLASS-05: Thinking in React and Higher-Order Functions"
+date = "2022-10-20T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["react"]
+keywords = ["" , ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
