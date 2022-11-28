@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
-draft = true
+draft = false
 +++
 
 Based on [Ryans Tutorials](https://ryanstutorials.net/linuxtutorial/).

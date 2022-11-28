@@ -1,5 +1,5 @@
 +++
-title = "Ui Design Fundamentals"
+title = "UI Design Fundamentals"
 date = "2022-11-23T14:22:08-08:00"
 author = "Kenny W. Lino"
 authorTwitter = "" #do not include @
