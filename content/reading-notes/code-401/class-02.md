@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
-draft = true
+draft = false
 +++
 
 ## An Introduction to NodeJS and Express
@@ -22,7 +22,7 @@ Based on the [MDN documents](https://developer.mozilla.org/en-US/docs/Learn/Serv
 
     Middleware is software that can help us better process the request/data that comes from our servers. For example, there's the `body-parser` middleware that makes it easier for us to work with the data, or the `cors` middleware which allows systems to 'talk' to each other.
 
-2. Express is the most popular *Node web framework*.
+2. Express is the most popular **Node web framework**.
 
 3. Express is “unopinionated.” What does that mean?
 
