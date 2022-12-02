@@ -1,4 +1,18 @@
-# CRUD
++++
+title = "CLASS-12: CRUD"
+date = "2022-10-27T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["REST", "CRUD"]
+keywords = ["" , ""]
+description = "Understanding status codes and how to specify certain results given from the server is important as we build out our own RESTful applications."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -85,5 +99,3 @@ Based on this [video](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
 8. What is the difference between a status 200 and a status 201?
 
     Status 201 is a more specific status code that means that an object was successfully created, while 200 just means successful.
-
-## Things I want to know more about

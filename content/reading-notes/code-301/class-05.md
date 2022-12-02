@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["react"]
 keywords = ["" , ""]
-description = ""
+description = "Thinking in React is because as applications get bigger in React, it becomes harder to know what parts should be made into its own component. It also becomes harder to decide what pieces of data should be maintained as props vs. state."
 showFullContent = false
 readingTime = false
 hideComments = false
@@ -16,7 +16,7 @@ draft = false
 
 ## Why this topic matters
 
-Thinking in React is because as applications get bigger in React, it becomes harder to know what parts should be made into its own component. It also becomes harder to decide what pieces of data should be maintained as props vs. state. 
+Thinking in React is because as applications get bigger in React, it becomes harder to know what parts should be made into its own component. It also becomes harder to decide what pieces of data should be maintained as props vs. state.
 
 Higher-order functions are important as they are useful for processing data. We also use them frequently with Array functions like map, reduce, filter, and forEach, so this helps us understand what is possibly happening under the hood.
 

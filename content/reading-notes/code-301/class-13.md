@@ -1,4 +1,18 @@
-# More CRUD
++++
+title = "CLASS-13: More CRUD"
+date = "2022-10-28T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["REST", "CRUD"]
+keywords = ["" , ""]
+description = "Understanding the relationshup between REST and CRUD will allow us to create a better mental model of our databases."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -33,5 +47,3 @@ Based on [this video](https://www.youtube.com/watch?v=EzNcBhSv1Wo).
     3. PATCH
     4. GET
     5. DELETE
-
-## Things I want to know more about

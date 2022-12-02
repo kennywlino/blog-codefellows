@@ -1,4 +1,18 @@
-# API Design Best Practices
++++
+title = "CLASS-08: API Design Best Practices"
+date = "2022-10-23T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["REST/CRUD", "API", "workplace"]
+keywords = ["" , ""]
+description = "This topic is important as we design our own APIs as the purpose of APIs are to have consistent data representations and requests across the web. Organizing our assets within the API also can get difficult without having a structure to how to expose the data via the API. Emphasizing that the data should be organized via the resources (nouns) helps us establish consistency."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -61,5 +75,3 @@ Based on [this Microsoft article](https://learn.microsoft.com/en-us/azure/archit
 11. What status code does a successful DELETE request return?
 
     A successful DELETE request should return HTTP status code 204 (No content).
-
-## Things I want to know more about

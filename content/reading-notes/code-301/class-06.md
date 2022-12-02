@@ -1,4 +1,18 @@
-# Node.js and Pair Programming
++++
+title = "CLASS-06: Node.js and Pair Programming"
+date = "2022-10-21T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["node.js", "workplace"]
+keywords = ["" , ""]
+description = "Node.js is important as it will allow us to use JavaScript for the complete full-stack experience (i.e. for both the front-end and back-end). Pair programming is important as it allows us to expand our understanding of coding as we collaborate to efficiently write algorithms and become more job-ready."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -65,5 +79,3 @@ Based on [Code Fellows article](https://www.codefellows.org/blog/6-reasons-for-p
 
 3. How does pair programming work?
     In pair programming, there are two roles. There's the Driver who is responsible for the typing and overall handling of code on the computer. The Navigator is responsible for thinking about the structure of code and providing input to the Driver, but they do not do any typing.
-
-## Things I want to know more about

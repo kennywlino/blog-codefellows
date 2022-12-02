@@ -1,4 +1,18 @@
-# SQL vs. NoSQL
++++
+title = "CLASS-11: SQL vs. NoSQL"
+date = "2022-10-26T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["SQL", "NoSQL"]
+keywords = ["" , ""]
+description = "This topic is important as learning how to store data efficiently to use with our applications becomes more of a concern. While both may be adequate solutions for smaller projects, knowing the advantages and disadvantages of SQL vs. NoSQL servers will help us in industry as well."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -46,7 +60,7 @@ Based on [this article](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?ut
 
     The difference between the two as summarized in this [Mission Cloud article](<https://www.missioncloud.com/blog/horizontal-vs-vertical-scaling-which-is-right-for-your-app#:~:text=With%20vertical%20scaling%20(%E2%80%9Cscaling%20up,memory%20workload%20across%20multiple%20devices>).
 
-     is that vertical scalability is like trading in a Toyota for a Ferrari. It's faster but it can get extremely expensive and you're still limited to one car. Horiziontal scaling is like getting multiple Toyotas to add to a fleet. One alone might not be great, but having multiple can give us the power we need to get what we want done.
+     The difference is that vertical scalability is like trading in a Toyota for a Ferrari. It's faster but it can get extremely expensive and you're still limited to one car. Horiziontal scaling is like getting multiple Toyotas to add to a fleet. One alone might not be great, but having multiple can give us the power we need to get what we want done.
 
 ## SQL vs NoSQL or MySQL vs MongoDB
 
@@ -87,5 +101,3 @@ Based on [this video](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y).
 9. What is the disadvantage of a NoSQL database?
 
     One of the disadvantages of a NoSQL database is that we're more prone to having duplicate data. If we have related data (e.g. like the "Orders", "Users", and "Products" mentioned in the video) that means we would also have to update each of them separately.
-
-## Things I want to know more about

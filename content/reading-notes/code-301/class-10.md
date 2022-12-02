@@ -1,10 +1,24 @@
-# The JavaScript Call Stack and JavaScript Error Messages
++++
+title = "CLASS-10: The JavaScript Call Stack and JavaScript Error Messages"
+date = "2022-10-25T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["javascript", "call stack"]
+keywords = ["" , ""]
+description = "Knowing how the JavaScript call stack functions is important as we want to be able to clearly see what order code is executed. This is especially important when we use callbacks and asynchronous functions. Understanding errors is also significant as we want to be able to quickly grasp what's impacting our code and think of ways to fix them."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
 Knowing how the JavaScript call stack functions is important as we want to be able to clearly see what order code is executed. This is especially important when we use callbacks and asynchronous functions.
 
-Understanding errors is also significant as we want to be able to quickly grasp what's impacting our code and think of ways to fix them. 
+Understanding errors is also significant as we want to be able to quickly grasp what's impacting our code and think of ways to fix them.
 
 ## Understanding the JavaScript Call Stack
 
@@ -132,5 +146,3 @@ Based on this [article](https://codeburst.io/javascript-error-messages-debugging
 6. What does the word ‘debugger’ do in your code?
 
     The debugger helps us find the sources of our bugs by using breakpoints to show the state of the code at that point in time.
-
-## Things I want to know more about

@@ -1,4 +1,18 @@
-# Diversity & Inclusion in the Tech Industry
++++
+title = "CLASS-14: Diversity & Inclusion in the Tech Industry"
+date = "2022-10-29T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["workplace"]
+keywords = ["" , ""]
+description = "This topic is important as we move towards a role at a company, we'll need to be more aware of our own biases and also know how to function on a team."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -33,5 +47,3 @@ Also see this [visualization of employee breakdowns](https://informationisbeauti
 3. Give an example of how a diverse company can serve a diverse user base or vise-versa.
 
     A diverse company can serve a diverse user base in various ways. One particular idea that comes to mind is accessibility, and how having representation for people who have different needs internally can help us take preemptive action to include accessible features like a voice over, or options to adjust the display.
-
-## Things I want to know more about

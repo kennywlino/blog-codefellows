@@ -1,4 +1,18 @@
-# What Google Learned From Its Quest to Build the Perfect Team / How I explained REST to my brother
++++
+title = "CLASS-07: What Google Learned From Its Quest to Build the Perfect Team / How I explained REST to my brother"
+date = "2022-10-22T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["REST", "CRUD", "workplace"]
+keywords = ["" , ""]
+description = "Knowing what can create a perfect team is important as we're all likely to end up working on some form of team whether in our career or elsewhere. Knowing that psychological safety can facilitate healthy spaces is a good step towards creating perfect teams. Understanding REST helps us see how data is communicated across the Internet in just 4 commands via the HTTP protocol."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
@@ -60,10 +74,8 @@ Based on this [article](https://gist.github.com/brookr/5977550).
 
     4. The Movie DB API -- yes
 
-
 ## Things I want to know more about
 
 In terms of how to build a perfect team, It'd be interesting to learn more about how to organically create psychological safety.
 
 In terms of REST, I want to learn more about the other types of repreentations of data that exist now aside from human-readable webpages and API data.
-

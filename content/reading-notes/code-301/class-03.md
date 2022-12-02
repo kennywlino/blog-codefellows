@@ -153,5 +153,3 @@ Based on this [video](https://www.youtube.com/watch?v=c05OL7XbwXU).
         this.props.increment(this.props.name);
     }
     ```
-
-## Things I want to know more about

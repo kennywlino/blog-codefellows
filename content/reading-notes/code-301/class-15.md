@@ -1,4 +1,18 @@
-# Authentication
++++
+title = "CLASS-15: Authentication"
+date = "2022-10-30T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["authentication"]
+keywords = ["" , ""]
+description = "Authentication is important as we consider working with more sensitive data. Being able to keep our databases secure as well guaranteeing our users' security via authentication will help us make strong web applications."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 

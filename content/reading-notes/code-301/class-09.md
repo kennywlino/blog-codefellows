@@ -1,8 +1,22 @@
-# Functional Progamming Concepts and Node.js Modules and require()
++++
+title = "CLASS-09: Functional Progamming Concepts and Node.js Modules and require()"
+date = "2022-10-24T17:10:15-08:00"
+author = "Kenny W. Lino"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["functional programming", "node.js", "nodules"]
+keywords = ["" , ""]
+description = "Functional progamming is relevant as we learn more programming theory. Arrow functions are a form of functional programming that we use that follows the concept of a `pure function`, and helps us to write more concise code. Modules are important as we write larger programs. Knowing how to separate our code into different modules will allow us to keep our code base more organized."
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
 
 ## Why this topic matters
 
-Functional progamming is relevant as we learn more programming theory. Arrow functions are a form of functional programming that we use that follows the concept of a `pure function`, and helps us to write more concise code. 
+Functional progamming is relevant as we learn more programming theory. Arrow functions are a form of functional programming that we use that follows the concept of a `pure function`, and helps us to write more concise code.
 
 Modules are important as we write larger programs. Knowing how to separate our code into different modules will allow us to keep our code base more organized.
 
@@ -63,5 +77,3 @@ Based on this [The Net Ninja video](https://www.youtube.com/watch?v=xHLd36QoS4k)
     ```
 
     This is because when we use `require()`, it looks for whatever the `module.exports` property is set to.
-
-## Things I want to know more about
