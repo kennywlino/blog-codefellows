@@ -62,16 +62,16 @@ The WCAG defines 3 levels of compliance, with AAA being the optimal level of com
 
 Image taken from Stark.
 
-### Scale
+## Scale
 
-Scale describes how large or small an element is, especially in regards to the porportions between elements.
+Scale describes how large or small an element is, especially in regards to the proportions between elements.
 
 When working with scale, we should consider:
 
 1. Should it be readable?
 2. How much space is available?
 
-#### Type
+### Type
 
 Paragraph text should be no smaller than 16px.
 

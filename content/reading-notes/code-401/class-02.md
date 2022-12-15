@@ -1,10 +1,10 @@
 +++
 title = "CLASS-02: Express, NPM, TDD, CI/CD"
-date= 2022-11-28T09:12:43-08:00
+date = "2022-11-28T09:12:43-08:00"
 author = "Kenny W. Lino"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["express", "npm"]
+tags = ["express", "npm", "tdd", "ci/cd"]
 keywords = ["", ""]
 description = ""
 showFullContent = false

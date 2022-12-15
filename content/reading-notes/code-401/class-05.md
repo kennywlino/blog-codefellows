@@ -1,6 +1,7 @@
 +++
-title= "CLASS-05: Linked Lists"
-date=  2022-12-02T08:21:56-08:00
+title = "CLASS-05: Linked Lists"
+date = "2022-12-02T08:21:56-08:00"
+author = "Kenny W. Lino"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["dsa", "linked lists"]

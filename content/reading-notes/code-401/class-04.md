@@ -1,9 +1,10 @@
 +++
-title= "CLASS-04: Data Modeling"
-date=  2022-12-01T08:21:56-08:00
+title = "CLASS-04: Data Modeling"
+date = "2022-12-01T08:21:56-08:00"
+author = "Kenny W. Lino"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["express"]
+tags = ["express", "SQL", "NoSQL"]
 keywords = ["", ""]
 description = ""
 showFullContent = false

@@ -1,9 +1,10 @@
 +++
-title= "CLASS-03: Express REST API"
-date= 2022-11-29T23:21:29-08:00
+title = "CLASS-03: Express REST API"
+date = "2022-11-29T23:21:29-08:00"
+author = "Kenny W. Lino"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["express"]
+tags = ["express", "javascript"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
